@@ -1,4 +1,4 @@
 # code
- this is my resposityry and im glad.
+ this is my respository and Im glad.
  <br>
  author is noor 
